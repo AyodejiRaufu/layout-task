@@ -65,7 +65,7 @@ nav a {
   margin: 0 20px;
 }
 
-@media screen and (max-device-width: 28.8rem) and (device-aspect-ratio:9/16){
+@media screen and (max-width: 28.8rem) {
   html, body{
     max-width: 28.8rem;
     margin: 0;
